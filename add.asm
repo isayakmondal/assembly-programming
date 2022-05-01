@@ -1,4 +1,4 @@
-;<Program title>
+;< wap to add 2 numbers present in location 2000 and 2001 and store the sum in 2002 and carry in 2003 >
 
 jmp start
 
